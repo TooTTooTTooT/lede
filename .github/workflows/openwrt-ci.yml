@@ -20,7 +20,7 @@ jobs:
 
     name: OpenWrt
 
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-18.04
 
     steps:
       - name: Space cleanup and Initialization environment
