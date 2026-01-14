@@ -18,7 +18,7 @@ jobs:
 
   build_openwrt:
 
-    name: Build OpenWrt Firmware
+    name: OpenWrt
 
     runs-on: ubuntu-22.04
 
